@@ -1,0 +1,39 @@
+===============================================================
+  BMSIT&M - DSA LAB - EXPERIMENT 4: MERGE SORT & ANALYSIS      
+===============================================================
+
+--- MENU ---
+1. Run Prescribed Benchmark (n = 5000, 10000, 20000, 50000) & Plot Graph
+2. Run Interactive Merge Sort (Small Array)
+3. View Detailed Theoretical Complexity Analysis
+4. Exit
+Enter your choice (1-4): 
+===============================================================
+    MERGE SORT BENCHMARK: n = 5000, 10000, 20000, 50000       
+===============================================================
+| n        | Time (seconds)   | Time (ms)        | Status     |
+|----------|------------------|------------------|------------|
+| 5000     | 0.001217         | 1.217            | VERIFIED   |
+| 10000    | 0.003107         | 3.107            | VERIFIED   |
+| 20000    | 0.003788         | 3.788            | VERIFIED   |
+| 50000    | 0.008487         | 8.487            | VERIFIED   |
+===============================================================
+
+===============================================================
+         ASCII PLOT: EXECUTION TIME (ms) vs INPUT SIZE (n)     
+===============================================================
+n =   5000 | ****** (1.217 ms)
+n =  10000 | **************** (3.107 ms)
+n =  20000 | ******************** (3.788 ms)
+n =  50000 | ********************************************* (8.487 ms)
+---------------------------------------------------------------
+Notice the nearly linear-logarithmic growth O(n log n).
+===============================================================
+
+
+--- MENU ---
+1. Run Prescribed Benchmark (n = 5000, 10000, 20000, 50000) & Plot Graph
+2. Run Interactive Merge Sort (Small Array)
+3. View Detailed Theoretical Complexity Analysis
+4. Exit
+Enter your choice (1-4): Exiting program. Goodbye!

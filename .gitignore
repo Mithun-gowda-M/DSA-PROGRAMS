@@ -1,0 +1,23 @@
+# Compiled binaries & object files
+*.exe
+*.o
+*.obj
+*.out
+*.app
+*.pdb
+*.ilk
+
+# Python artifacts
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE & Editor files
+.vscode/
+.idea/
+*.swp
+*~
+
+# OS specific files
+Thumbs.db
+.DS_Store
